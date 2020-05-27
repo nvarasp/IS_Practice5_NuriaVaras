@@ -1,6 +1,6 @@
 # IS_Practice5_NuriaVaras
 ## Practice 5 of Interactive Systems: Avatar control
-I chose option 1 of exploring the fastIK asset and modifying one of the examples in the scene.\\
+I chose option 1 of exploring the fastIK asset and modifying one of the examples in the scene.\
 -Tentacle:\
   ·Direction of target: x=1 and y=1 so that the tentacle moves in a different way\
   ·Direction of pole: x=1 and y=1 so that the movement is faster\
